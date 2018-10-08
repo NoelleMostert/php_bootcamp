@@ -1,0 +1,50 @@
+body {background: url(https://cdn.downtoearth.org.in/library/large/2016-09-15/0.91975000_1473947611_cover-ozone.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.wrap {
+	width: auto;
+	margin: auto;
+}
+.atom {
+position: relative;
+height: 6vh;
+width: 3.5vw;
+border: 1px solid black;
+-webkit-user-modify: read-write;
+-moz-webkit-user-modify: read-write;
+user-modify: read-write;
+}
+.empty_line {
+position: relative;
+height: 4vh;
+width: 3.5vw;
+}
+.weight {
+margin: 2px;
+text-align: right;
+font-size: 1vh;
+margin-right: 3px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.element {
+  margin-top: -2px;
+  margin-bottom: 2px;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 1.5vw;
+}
+.number {
+  margin: -5px;
+  margin-left: 2px;
+  text-align: left;
+  font-size: 1vh;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1 {text-align: center;
+  color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding-top: 20px;
+font-size: 3vh;}

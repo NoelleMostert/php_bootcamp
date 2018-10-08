@@ -1,0 +1,84 @@
+body {background: url(https://stmed.net/sites/default/files/flower-wallpapers-27859-53340.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
+
+div {width: auto;	
+	margin: auto;
+}
+h1 {color: rgb(25, 10, 107); 
+	text-align: center;
+font-family: Sofia;
+font-size: 36pt;
+}
+p {font-size: 18pt; 
+	text-align: center;
+	font-family: Sofia;
+}
+
+img{
+	height: 400px;
+	width: relative;
+}
+a {text-decoration: none;
+}
+a:hover {text-decoration: underline;
+}
+.wrap {width: auto;
+	height: auto;
+  margin: auto;
+}
+.text{font-size: 18pt;
+	font-family: Sofia;
+}
+.content {background: transparent;
+	margin: auto;
+	position: relative;
+	height: 800px;
+	width: 1200px;
+	text-align: center;
+}
+.right{
+	height: 40px;
+	width: 40px;
+	float: right;
+}
+  #menu{text-align: center;
+	  width: 90%;
+	  margin: auto;
+  }
+  h3 {color: rgb(25, 10, 107); 
+	text-align: right;
+font-family: Sofia;
+font-size: 14pt;
+margin-right: 10%;
+  }
+  h3 a:link{
+	  text-decoration: none;  
+  }
+  #menu ul{margin:0;
+	padding:0;
+	list-style-type:none;
+	text-align:center;
+	font-family: Sofia;
+	font-size: 20px;
+  }
+  #menu li{float: left;
+	margin: auto;
+	padding: 0;
+	background-color: transparent;
+  }
+  #menu li a{display: block;
+	width: 200px;
+	color: rgb(25, 10, 107);
+	text-decoration: none;
+	padding: 5px;
+  }
+  #menu li a:hover{color: rgb(187, 36, 167);
+  }
+  #menu ul li ul{display: none;
+  }
+  #menu ul li:hover ul{display: block;
+  }
+  #menu li:hover ul li{float: none;
+  }

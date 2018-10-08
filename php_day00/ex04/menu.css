@@ -1,0 +1,41 @@
+body {background: url(https://stmed.net/sites/default/files/flower-wallpapers-27859-53340.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
+  .content {background: transparent;
+	margin: auto;
+	position: relative;
+	height: 800px;
+	width: 1200px;
+	text-align: center;
+  }
+  #menu{text-align: center;
+	  width: 70%;
+	  margin: auto;
+  }
+  #menu ul{margin:0;
+	padding:0;
+	list-style-type:none;
+	text-align:center;
+	font-family: Sofia;
+	font-size: 30px;
+  }
+  #menu li{float: left;
+	margin: auto;
+	padding: 0;
+	background-color: transparent;
+  }
+  #menu li a{display: block;
+	width: 250px;
+	color: rgb(25, 10, 107);
+	text-decoration: none;
+	padding: 5px;
+  }
+  #menu li a:hover{color: rgb(187, 36, 167);
+  }
+  #menu ul li ul{display: none;
+  }
+  #menu ul li:hover ul{display: block;
+  }
+  #menu li:hover ul li{float: none;
+  }
