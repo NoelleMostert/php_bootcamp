@@ -1,0 +1,1 @@
+INSERT INTO `prodcat`(`cpid`, `cid`, `pid`) VALUES (12,4,8);

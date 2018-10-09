@@ -1,1 +1,1 @@
-DELETE FROM ft_table WHERE id <= 5;
+DELETE FROM db_nmostert.ft_table WHERE id <= 5;

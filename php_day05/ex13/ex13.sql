@@ -1,1 +1,4 @@
-SELECT ROUND(avg(nb_seats)) 'average' FROM cinema;
+SELECT
+    ROUND(AVG(nb_seats)) 'average'
+FROM
+    db_nmostert.cinema;
