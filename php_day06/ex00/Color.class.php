@@ -26,7 +26,6 @@
 	{
 		echo "destroying".$rgb."\n";
 	}
-
 	public function __toString($rgb)
 	{
 	}
